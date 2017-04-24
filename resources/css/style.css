@@ -1,0 +1,12 @@
+.lehudy-list {
+	float: left;
+	width: 750px;
+	border: 1px solid  #ddd;
+	border-radius: 4px;
+	padding: 20px;
+}
+
+.lehudy-left{
+	float: right;
+	width: 250px;
+}
