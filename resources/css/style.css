@@ -19,3 +19,14 @@
 	margin: auto;
 	margin-bottom: 30px;
 }
+
+@media (min-width: 1200px){
+	.loginFormDiv{
+		width: 650px;
+		margin: auto;
+	}
+}
+
+.loginForm{
+	width: 100%;
+}
